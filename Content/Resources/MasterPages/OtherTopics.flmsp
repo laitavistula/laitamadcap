@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+    </head>
+    <body>
+        <div class="topic-hero">
+            <div class="topic-layout">
+                <div> <MadCap:searchBarProxy data-mc-skin="/Project/Skins/SearchTopic.flskn" /></div>
+                <div>
+                    <MadCap:bodyProxy />
+                </div>
+                <div>
+                    <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/TopicToolbar.flskn" />
+                    <MadCap:menuProxy style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
+                </div>
+            </div>
+            <div class="footer">
+                <table style="width: 100%;">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p class="footer">avt.info@yourcompany.com</p>
+                                <p class="footer">+48 858 123 4567</p>
+                                <p class="footer">1234 ul. MadCap Flare</p>
+                                <p class="footer">Warsaw, Poland</p>
+                            </td>
+                            <td style="text-align: right;">&#160;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

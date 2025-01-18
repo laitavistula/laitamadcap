@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:snippetVariables="General.CityStateZip:Warsaw\, Poland,;General.CompanyName:AVT,;General.Email:avt.info@dot.com,;General.Facebook:http://www.facebook.com/avtinfo,;General.PhoneNumber:+48 858 123 4567,;General.ProductName:AVT Info,">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="topic-hero">
+            <MadCap:bodyProxy />
+        </div>
+        <div class="footer">
+            <table style="width: 100%;">
+                <col />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="footer">avt.info@yourcompany.com</p>
+                            <p class="footer">+48 858 123 4567</p>
+                            <p class="footer">1234 ul. MadCap Flare</p>
+                            <p class="footer">Warsaw, Poland</p>
+                        </td>
+                        <td style="text-align: right;">&#160;</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

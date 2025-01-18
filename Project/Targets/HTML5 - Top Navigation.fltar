@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="10"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  ConditionTagExpression="include[AVT-Conditions.ScreenOnly or &quot;General.Audience A&quot;], exclude[AVT-Conditions.PrintOnly or &quot;General.Audience B&quot;]"
+  DefaultUrl="/Content/Home.htm"
+  MasterStylesheetOverride="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  FaviconSkin="/Project/Skins/FavIcon_Skin.flskn"
+  TabletBreakpoint="1286">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Destinations> </Destinations>
+  <Variables>
+    <Variable
+      Name="General/CityStateZip">Warsaw, Poland</Variable>
+    <Variable
+      Name="General/CompanyName">AVT Company</Variable>
+    <Variable
+      Name="General/Email">avt.company@dot.com</Variable>
+  </Variables>
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/AVT-Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>

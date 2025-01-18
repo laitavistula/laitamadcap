@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  ConditionTagExpression="exclude[AVT-Conditions.ScreenOnly]"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Table of Contents.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Variables>
+    <Variable
+      Name="General/CityStateZip">Warsaw, Poland</Variable>
+    <Variable
+      Name="General/CompanyName">AVT Company</Variable>
+    <Variable
+      Name="General/Email">avt.company@dot.com</Variable>
+  </Variables>
+  <Glossaries></Glossaries>
+</CatapultTarget>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="AVT-Conditions.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.4479167in" Y="0in" Right="0.04166667in" Bottom="0in" Width="615px" Height="864px">
+        </Frame>
+        <Frame X="-189px" Y="-145px" Width="908px" Height="92px" Flow="header" Right="-143px" Bottom="917px" BorderLeftStyle="solid" BorderLeftWidth="10px" BorderLeftColor="#000000" Anchors="" BackgroundRepeat="no-repeat" BackgroundPositionX="center" BackgroundPositionY="center" BackgroundImage="../Images/Assets/HeroImage/film-background.png" />
+    </Page>
+</PageStyles>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Subtitling</Term>
+    </Terms>
+    <Definition
+      Link="">The practice of displaying text on screen to convey spoken dialogue, sound effects, or other auditory information, either intralingually (same language) or interlingually (translation).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Audiovisual Translation (AVT)</Term>
+    </Terms>
+    <Definition
+      Link="">The process of translating content that combines sound and visual components, such as films, TV shows, and video games. Common modes include subtitling, dubbing, and audio description.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Dubbing</Term>
+    </Terms>
+    <Definition
+      Link="">The replacement of the original audio in audiovisual content with a translated version recorded by voice actors, synchronised with the visual and lip movements.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Audio Description (AD)</Term>
+    </Terms>
+    <Definition
+      Link="">A narration track that describes visual elements of a film or show, making it accessible for visually impaired audiences.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Speech-to-Text (STT)</Term>
+    </Terms>
+    <Definition
+      Link="">Technology that converts spoken language into written text, commonly used for live captioning and transcription in AVT workflows.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Post-editing</Term>
+    </Terms>
+    <Definition
+      Link="">The process of revising machine-generated translations to improve their quality and accuracy, often applied to subtitling and other AVT tasks.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Template</Term>
+    </Terms>
+    <Definition
+      Link="">A timecoded text file containing transcriptions and/or translations that serve as a framework for creating subtitles or other AVT content.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term7"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Over-the-Top (OTT) Platforms</Term>
+    </Terms>
+    <Definition
+      Link="">Streaming services, such as Netflix and Disney Plus, which distribute audiovisual content directly to viewers via the internet, driving demand for AVT services.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Respeaking</Term>
+    </Terms>
+    <Definition
+      Link="">A technique where a live speaker dictates subtitles into an ASR system, enabling real-time intralingual or interlingual subtitles.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Closed Captions (CC)</Term>
+    </Terms>
+    <Definition
+      Link="">Subtitles that include not only spoken dialogue but also non-speech elements like sound effects and speaker identification, aimed at aiding deaf or hard-of-hearing audiences.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term10"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>SDH (Subtitles for the Deaf and Hard-of-Hearing)</Term>
+    </Terms>
+    <Definition
+      Link="">A specific type of subtitle that combines dialogue, sound effect descriptions, and speaker information, tailored to meet the needs of deaf and hard-of-hearing viewers.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term11"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Timecoding</Term>
+    </Terms>
+    <Definition
+      Link="">The process of assigning precise start and end times to subtitles or dialogue lines, ensuring synchronisation with the audiovisual material.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term12"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Voice-over Translation</Term>
+    </Terms>
+    <Definition
+      Link="">A type of translation where the original dialogue is partially audible, and a translated version is spoken over it, commonly used in documentaries.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="AVT-Glossary.Term13"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Localisation</Term>
+    </Terms>
+    <Definition
+      Link="">The adaptation of audiovisual content to suit the cultural and linguistic preferences of a specific target audience, beyond mere translation.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

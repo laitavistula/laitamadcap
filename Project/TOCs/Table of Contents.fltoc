@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="AVT-Conditions.PrintOnly">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print-Only/Title_Cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="AVT-Conditions.PrintOnly"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Title.flpgl"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="Types of AVT"
+    BreakType="chapter"
+    PageType="first"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageNumberFormat="decimal"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/E_Main Page Topics/Subtitling.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/E_Main Page Topics/Dubbing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/E_Main Page Topics/Voiceover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/E_Main Page Topics/Accessibility.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction AVT/AVT-History.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction AVT/AVT-Advantages.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction AVT/AVT-Characteristics.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B_Application/Application.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Application/Pre-editing.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Application/Post-editing.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Application/LightPE.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C_Didactics/Academia.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Didactics/RoleOfTech.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Didactics/ChangesInDidactics.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Didactics/AdaptingToChange.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D_More Information/Useful-Information.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/FAQs.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/Useful-Links.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/Tips.htm"></TocEntry>
+    <TocEntry
+      Title="AVT Glossary"
+      Link="/Content/D_More Information/AVT-glossary.html" />
+  </TocEntry>
+</CatapultToc>
