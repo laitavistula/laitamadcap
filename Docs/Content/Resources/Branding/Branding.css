@@ -1,0 +1,13 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Top Navigation and PDF/ */
+
+:root
+{
+	--FontFamily: Arial, Avenir, Myriad;
+	--Primary: #d3d3d3;
+	--Dark: #808080;
+	--LogoImage: url('../Images/AVT-logo-small.png');
+	--Lightest: transparent;
+}
+
