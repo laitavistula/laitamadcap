@@ -16,14 +16,20 @@
   MasterStylesheetOverride="true"
   MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
   FaviconSkin="/Project/Skins/FavIcon_Skin.flskn"
-  TabletBreakpoint="1286">
+  TabletBreakpoint="1286"
+  OutputFile="index.html">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true"
     OutputFormat="doc" />
-  <Destinations> </Destinations>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination1.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
   <Variables>
     <Variable
       Name="General/CityStateZip">Warsaw, Poland</Variable>
